@@ -1,0 +1,10 @@
+pyyaml
+python-dotenv
+google-genai
+openai
+pypdf
+pypdfium2
+pillow
+pytesseract
+httpx
+beautifulsoup4

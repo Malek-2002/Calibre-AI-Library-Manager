@@ -1,0 +1,97 @@
+{
+  "path": "E:\\Calibre\\books\\The_Shock_Doctrine__The_Rise_of_Disaster_Capitalism\\The_Shock_Doctrine__The_Rise_of_Disaster_C_-_Naomi_Klein.epub",
+  "metadata": {
+    "title": "The Shock Doctrine: The Rise of Disaster Capitalism",
+    "authors": [
+      "Naomi Klein"
+    ],
+    "file_size": 745849,
+    "rating": 4.31,
+    "tags": [
+      "Nonfiction",
+      "Politics",
+      "Economics",
+      "History",
+      "Sociology",
+      "Philosophy",
+      "Business",
+      "Audiobook"
+    ],
+    "series": "",
+    "publisher": "Vintage Canada",
+    "publish_date": "Jul 2008",
+    "comments": "From the bestselling author of No Logo—the gripping story of how America’s “free market” polices exploited crises and shock for three decades from Pinochet’s coup in Chile in 1973 to the \"War on Terror.\" In her groundbreaking reporting, Naomi Klein introduced the term \"disaster capitalism.\" Whether covering Baghdad after the U.S. occupation, Sri Lanka in the wake of the tsunami, or New Orleans post-Katrina, she witnessed something remarkably similar. People still reeling from catastrophe were being hit again, this time with economic \"shock treatment,\" losing their land and homes to rapid-fire corporate makeovers. The Shock Doctrine retells the story of one the most dominant ideologies of our time: Milton Friedman's free market economic revolution. In contrast to the popular myth of this movement's peaceful global victory, Klein shows how it has exploited moments of shock and extreme violence in order to implement its economic policies in so many parts of the world from Latin America and Eastern Europe to South Africa, Russia, and Iraq. At the core of disaster capitalism is the use of cataclysmic events to advance radical privatization combined with the privatization of the disaster response itself. Klein argues that by capitalizing on crises, created by nature or war, the disaster capitalism complex now exists as a booming new economy, and is the violent culmination of a radical economic project that has been incubating for fifty years.",
+    "isbn": "0676978010",
+    "sources": {
+      "isbn": "embedded",
+      "file_size": "file",
+      "title": "goodreads",
+      "authors": "goodreads",
+      "rating": "goodreads",
+      "tags": "goodreads",
+      "publisher": "goodreads",
+      "publish_date": "goodreads",
+      "comments": "goodreads"
+    }
+  },
+  "text_source": "mixed",
+  "llm_used": false,
+  "llm_confidence": null,
+  "llm_raw": null,
+  "scraped": [
+    {
+      "source": "goodreads",
+      "url": "https://www.goodreads.com/book/show/2800549-the-shock-doctrine",
+      "title": "The Shock Doctrine: The Rise of Disaster Capitalism",
+      "authors": [
+        "Naomi Klein"
+      ],
+      "rating": 4.31,
+      "rating_count": 56535,
+      "tags": [
+        "Nonfiction",
+        "Politics",
+        "Economics",
+        "History",
+        "Sociology",
+        "Philosophy",
+        "Business",
+        "Audiobook"
+      ],
+      "series": "",
+      "publisher": "Vintage Canada",
+      "publish_date": "Jul 2008",
+      "comments": "From the bestselling author of No Logo—the gripping story of how America’s “free market” polices exploited crises and shock for three decades from Pinochet’s coup in Chile in 1973 to the \"War on Terror.\" In her groundbreaking reporting, Naomi Klein introduced the term \"disaster capitalism.\" Whether covering Baghdad after the U.S. occupation, Sri Lanka in the wake of the tsunami, or New Orleans post-Katrina, she witnessed something remarkably similar. People still reeling from catastrophe were being hit again, this time with economic \"shock treatment,\" losing their land and homes to rapid-fire corporate makeovers. The Shock Doctrine retells the story of one the most dominant ideologies of our time: Milton Friedman's free market economic revolution. In contrast to the popular myth of this movement's peaceful global victory, Klein shows how it has exploited moments of shock and extreme violence in order to implement its economic policies in so many parts of the world from Latin America and Eastern Europe to South Africa, Russia, and Iraq. At the core of disaster capitalism is the use of cataclysmic events to advance radical privatization combined with the privatization of the disaster response itself. Klein argues that by capitalizing on crises, created by nature or war, the disaster capitalism complex now exists as a booming new economy, and is the violent culmination of a radical economic project that has been incubating for fifty years.",
+      "isbn": "9780676978018"
+    }
+  ],
+  "identity": {
+    "title": "The Shock Doctrine: The Rise of Disaster Capitalism",
+    "authors": [
+      "Naomi Klein"
+    ],
+    "isbn": "0676978010",
+    "confidence": 0.99
+  },
+  "errors": [],
+  "missing": [
+    "series"
+  ],
+  "complete": false,
+  "calibre": {
+    "outcome": "added",
+    "format": "EPUB",
+    "fields_set": [
+      "title",
+      "authors",
+      "rating",
+      "tags",
+      "isbn",
+      "publish_date",
+      "publisher",
+      "comments"
+    ],
+    "fields_failed": {},
+    "verified": true
+  }
+}

@@ -1,0 +1,23 @@
+# Calibre UI automation settings. Every key is optional (defaults shown).
+
+calibre_exe: null          # e.g. 'C:\Program Files\Calibre2\calibre.exe' -> launched if Calibre is not running
+window_title_re: '^calibre\s*[—–-]\s*\|\|'    # main window title looks like: calibre — || Calibre Library ||
+edit_dialog_title_re: '^Edit metadata'
+
+launch_timeout: 60         # seconds to wait for Calibre to start
+dialog_timeout: 20         # seconds to wait for a dialog to open/close
+action_timeout: 10
+add_timeout: 90            # seconds to wait for a newly added book to show up
+
+search_mode: loose         # loose = title/author "contains" search, exact = title:"=..." equality search
+                           # (the exact title+author check is always done on the result table afterwards)
+search_settle: 0.6         # seconds to let the table refresh after a search
+
+date_format: '%b %Y'       # how the "Published" box displays dates in your Calibre (Apr 2013 -> '%b %Y')
+add_format_button: auto    # auto (tooltip, then top_left) | top_left | top_right | bottom_left | bottom_right
+skip_fields: []            # fields never written, e.g. [rating, comments]
+verify_after_save: true    # search again after saving and confirm the book is there
+key_pause: 0.01            # delay between typed keys (keyboard fallback only)
+
+# Texts as shown by YOUR Calibre/Windows language. Override for non-English UIs.
+ui_text: {}

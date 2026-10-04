@@ -1,0 +1,36 @@
+# LLM layer configuration.
+# Each entry under `models` is a named profile.
+# API keys are read from environment variables (.env) via `api_key_env`.
+# API keys should NOT be placed directly in this file.
+
+default: groq
+
+# Used when no model is specified:
+# tried in order, first successful model wins.
+fallback:
+  - gemini
+  - groq
+  - openai
+
+models:
+
+  gemini:
+    provider: gemini
+    model: gemini-3.1-flash-lite
+    api_key_env: GEMINI_API_KEY
+    temperature: 0
+
+  # Groq
+  groq:
+    provider: groq
+    model: openai/gpt-oss-120b
+    api_key_env: GROQ_API_KEY
+    temperature: 0
+    base_url: https://api.groq.com/openai/v1
+
+  # OpenAI
+  openai:
+    provider: openai
+    model: gpt-6-luna
+    api_key_env: OPENAI_API_KEY
+    temperature: 0

@@ -1,0 +1,248 @@
+PS E:\Calibre> & c:\python313\python.exe e:/Calibre/calibre.py
+Connected to running Calibre.
+Main Calibre window found.
+Title: calibre — || Calibre Library ||
+
+
+======================================================================================================================================================
+CALIBRE UI AUTOMATION DESCENDANTS
+======================================================================================================================================================
+Total elements found: 232
+
+Idx   | Type            | Control Type       | AutoID                    | Text                                     | Bounds
+------------------------------------------------------------------------------------------------------------------------------------------------------
+[000] | Dialog          | Window             |                           | Edit metadata - Atomic Habits: An Easy & | L37, T46, R1869, B1063
+[001] | TitleBar        | TitleBar           |                           |                                          | L58, T11, R1871, B46
+[002] | Menu            | MenuBar            |                           | System                                   | L38, T17, R66, B45
+[003] | MenuItem        | MenuItem           |                           | System                                   | L38, T17, R66, B45
+[004] | Button          | Button             |                           | Close                                    | L1828, T9, R1872, B46
+[005] | GroupBox        | Group              |                           |                                          | L187, T1020, R1855, B1050
+[006] | Button          | Button             |                           | Previous                                 | L1541, T1020, R1641, B1050
+[007] | Button          | Button             |                           | Next                                     | L1648, T1020, R1748, B1050
+[008] | Button          | Button             |                           | OK                                       | L1433, T1020, R1533, B1050
+[009] | Button          | Button             |                           | Cancel                                   | L1756, T1020, R1856, B1050
+[010] | Button          | Button             |                           | 0 Data files                             | L51, T1020, R167, B1050
+[011] | GroupBox        | Group              |                           |                                          | L51, T60, R1856, B1012
+[012] | Pane            | Pane               |                           |                                          | L53, T62, R1853, B1009
+[013] | GroupBox        | Group              |                           |                                          | L53, T62, R1853, B1009
+[014] | GroupBox        | Group              |                           |                                          | L53, T62, R1853, B1009
+[015] | GroupBox        | Group              |                           |                                          | L53, T62, R1853, B1009
+[016] | Button          | Button             |                           |                                          | L65, T75, R95, B103
+[017] | Button          | Button             |                           |                                          | L65, T115, R95, B143
+[018] | Static          | Text               |                           | Title:                                   | L102, T73, R167, B105
+[019] | Edit            | Edit               |                           | Atomic Habits: An Easy & Proven Way to B | L175, T75, R685, B105
+[020] | Button          | Button             |                           |                                          | L692, T75, R722, B103
+[021] | Static          | Text               |                           | Title sort:                              | L730, T73, R808, B105
+[022] | Edit            | Edit               |                           | Atomic Habits                            | L816, T76, R1324, B103
+[023] | Button          | Button             |                           |                                          | L1292, T78, R1319, B100
+[024] | Static          | Text               |                           | Author(s):                               | L102, T113, R167, B144
+[025] | ComboBox        | ComboBox           |                           | Author(s):                               | L175, T113, R685, B143
+[026] | Edit            | Edit               |                           | James Clear                              | L177, T116, R658, B141
+[027] | Button          | Button             |                           |                                          | L692, T115, R722, B143
+[028] | Static          | Text               |                           | Author sort:                             | L730, T113, R808, B144
+[029] | Edit            | Edit               |                           | Clear, James                             | L816, T115, R1324, B142
+[030] | Button          | Button             |                           |                                          | L1292, T117, R1319, B139
+[031] | Button          | Button             |                           |                                          | L65, T155, R95, B183
+[032] | Static          | Text               |                           | Series:                                  | L102, T152, R167, B185
+[033] | ComboBox        | ComboBox           |                           | Series:                                  | L175, T153, R685, B183
+[034] | Edit            | Edit               |                           |                                          | L177, T156, R658, B181
+[035] | Button          | Button             |                           |                                          | L692, T155, R722, B183
+[036] | Static          | Text               |                           | Number:                                  | L730, T152, R808, B185
+[037] | UpDown          | Spinner            |                           | 1.00                                     | L816, T153, R1324, B183
+[038] | GroupBox        | Group              |                           |                                          | L1332, T73, R1842, B185
+[039] | Button          | Button             |                           |                                          | L1332, T73, R1382, B121
+[040] | Button          | Button             |                           |                                          | L1332, T137, R1382, B185
+[041] | Button          | Button             |                           |                                          | L1792, T73, R1842, B121
+[042] | Button          | Button             |                           |                                          | L1792, T137, R1842, B185
+[043] | ListBox         | List               |                           |                                          | L1390, T73, R1785, B185
+[044] | ListItem        | ListItem           |                           | EPUB (2.90 MB)                           | L1391, T75, R1783, B117
+[045] | Custom          | Custom             |                           |                                          | L65, T212, R1842, B998
+[046] | GroupBox        | Group              |                           | Comments                                 | L1260, T212, R1842, B998
+[047] | GroupBox        | Group              |                           | Comments                                 | L1263, T240, R1838, B995
+[048] | GroupBox        | Group              |                           |                                          | L1263, T240, R1838, B995
+[049] | Pane            | Pane               |                           |                                          | L1266, T242, R1836, B964
+[050] | GroupBox        | Group              |                           |                                          | L1266, T242, R1836, B964
+[051] | GroupBox        | Group              |                           |                                          | L1266, T242, R1836, B358
+[052] | Button          | Button             |                           |                                          | L1266, T246, R1298, B277
+[053] | Button          | Button             |                           |                                          | L1306, T246, R1338, B277
+[054] | Button          | Button             |                           |                                          | L1346, T246, R1378, B277
+[055] | Button          | Button             |                           |                                          | L1386, T246, R1418, B277
+[056] | Button          | Button             |                           |                                          | L1426, T246, R1458, B277
+[057] | GroupBox        | Group              |                           |                                          | L1466, T250, R1473, B273
+[058] | Button          | Button             |                           |                                          | L1481, T246, R1513, B277
+[059] | Button          | Button             |                           |                                          | L1521, T246, R1553, B277
+[060] | Button          | Button             |                           |                                          | L1561, T246, R1593, B277
+[061] | GroupBox        | Group              |                           |                                          | L1601, T250, R1608, B273
+[062] | Button          | Button             |                           |                                          | L1616, T246, R1648, B277
+[063] | Button          | Button             |                           |                                          | L1656, T246, R1688, B277
+[064] | GroupBox        | Group              |                           |                                          | L1696, T250, R1703, B273
+[065] | CheckBox        | CheckBox           |                           |                                          | L1711, T246, R1743, B277
+[066] | CheckBox        | CheckBox           |                           |                                          | L1751, T246, R1783, B277
+[067] | GroupBox        | Group              |                           |                                          | L0, T0, R0, B0
+[068] | CheckBox        | CheckBox           |                           |                                          | L1266, T285, R1298, B316
+[069] | CheckBox        | CheckBox           |                           |                                          | L1306, T285, R1338, B316
+[070] | GroupBox        | Group              |                           |                                          | L1346, T288, R1353, B311
+[071] | Button          | Button             |                           |                                          | L1361, T285, R1393, B316
+[072] | Button          | Button             |                           |                                          | L1401, T285, R1433, B316
+[073] | GroupBox        | Group              |                           |                                          | L1441, T288, R1448, B311
+[074] | Button          | Button             |                           |                                          | L1456, T285, R1488, B316
+[075] | Button          | Button             |                           |                                          | L1496, T285, R1528, B316
+[076] | Button          | Button             |                           |                                          | L1536, T285, R1568, B316
+[077] | GroupBox        | Group              |                           |                                          | L1576, T288, R1583, B311
+[078] | CheckBox        | CheckBox           |                           |                                          | L1591, T285, R1623, B316
+[079] | CheckBox        | CheckBox           |                           |                                          | L1631, T285, R1663, B316
+[080] | CheckBox        | CheckBox           |                           |                                          | L1671, T285, R1703, B316
+[081] | CheckBox        | CheckBox           |                           |                                          | L1711, T285, R1743, B316
+[082] | GroupBox        | Group              |                           |                                          | L0, T0, R0, B0
+[083] | CheckBox        | CheckBox           |                           |                                          | L1266, T323, R1298, B354
+[084] | CheckBox        | CheckBox           |                           |                                          | L1306, T323, R1338, B354
+[085] | CheckBox        | CheckBox           |                           |                                          | L1346, T323, R1378, B354
+[086] | CheckBox        | CheckBox           |                           |                                          | L1386, T323, R1418, B354
+[087] | GroupBox        | Group              |                           |                                          | L0, T0, R0, B0
+[088] | Edit            | Edit               |                           | No matter your goals, Atomic Habits offe | L1266, T366, R1836, B964
+[089] | GroupBox        | Group              |                           |                                          | L1267, T367, R1817, B963
+[090] | GroupBox        | Group              |                           |                                          | L1817, T367, R1834, B963
+[091] | ScrollBar       | ScrollBar          |                           |                                          | L1817, T367, R1834, B963
+[092] | TabControl      | Tab                |                           | Normal view                              | L1263, T965, R1481, B995
+[093] | TabItem         | TabItem            |                           | Normal view                              | L1263, T965, R1364, B995
+[094] | TabItem         | TabItem            |                           | HTML source                              | L1365, T965, R1482, B995
+[095] | GroupBox        | Group              |                           |                                          | L541, T212, R1254, B998
+[096] | GroupBox        | Group              |                           | Change cover                             | L552, T223, R1243, B341
+[097] | Button          | Button             |                           | Browse                                   | L567, T262, R782, B290
+[098] | Button          | Button             |                           | Remove                                   | L790, T262, R1006, B290
+[099] | Button          | Button             |                           | Trim borders                             | L1013, T262, R1228, B290
+[100] | Button          | Button             |                           | Download                                 | L567, T298, R782, B326
+[101] | Button          | Button             |                           | Generate                                 | L790, T298, R1006, B326
+[102] | Button          | Button             |                           | AI Generate                              | L1013, T298, R1228, B326
+[103] | Static          | Text               |                           | Rating:                                  | L552, T523, R654, B553
+[104] | ComboBox        | ComboBox           |                           | Rating:                                  | L662, T523, R1205, B553
+[105] | Button          | Button             |                           |                                          | L1213, T523, R1243, B551
+[106] | Button          | Button             |                           |                                          | L552, T561, R582, B589
+[107] | Static          | Text               |                           | Tags:                                    | L590, T561, R655, B591
+[108] | ComboBox        | ComboBox           |                           | Tags:                                    | L662, T561, R1205, B591
+[109] | Edit            | Edit               |                           | Self Help, Nonfiction, Psychology, Audio | L665, T563, R1180, B588
+[110] | Button          | Button             |                           |                                          | L1213, T561, R1243, B589
+[111] | Button          | Button             |                           |                                          | L552, T598, R582, B626
+[112] | Static          | Text               |                           | Ids:                                     | L590, T598, R655, B626
+[113] | Edit            | Edit               |                           | isbn:9780735211308                       | L662, T598, R1205, B625
+[114] | Button          | Button             |                           |                                          | L1173, T601, R1200, B623
+[115] | Button          | Button             |                           |                                          | L1213, T598, R1243, B626
+[116] | Static          | Text               |                           | Date:                                    | L552, T635, R654, B665
+[117] | UpDown          | Spinner            |                           | 03 Oct 2026                              | L662, T635, R1205, B665
+[118] | Button          | Button             |                           |                                          | L1213, T635, R1243, B663
+[119] | Static          | Text               |                           | Published:                               | L552, T672, R654, B702
+[120] | UpDown          | Spinner            |                           | Oct 2018                                 | L662, T672, R1205, B702
+[121] | Button          | Button             |                           |                                          | L1213, T672, R1243, B700
+[122] | Button          | Button             |                           |                                          | L552, T710, R582, B738
+[123] | Static          | Text               |                           | Publisher:                               | L590, T710, R655, B740
+[124] | ComboBox        | ComboBox           |                           | Publisher:                               | L662, T710, R1205, B740
+[125] | Edit            | Edit               |                           | Penguin Publishing Group                 | L665, T712, R1180, B737
+[126] | Button          | Button             |                           |                                          | L1213, T710, R1243, B738
+[127] | Static          | Text               |                           | Languages:                               | L552, T747, R654, B777
+[128] | ComboBox        | ComboBox           |                           | Languages:                               | L662, T747, R1243, B777
+[129] | Edit            | Edit               |                           | English                                  | L665, T750, R1217, B775
+[130] | Button          | Button             |                           | Download metadata                        | L552, T958, R1205, B986
+[131] | Button          | Button             |                           |                                          | L1213, T958, R1243, B986
+[132] | GroupBox        | Group              |                           |                                          | L65, T212, R536, B998
+[133] | Thumb           | Thumb              |                           |                                          | L536, T212, R541, B998
+[134] | Thumb           | Thumb              |                           |                                          | L1255, T212, R1260, B998
+[135] | TitleBar        | TitleBar           |                           |                                          | L20, T-6, R1920, B29
+[136] | Menu            | MenuBar            |                           | System                                   | L0, T0, R28, B28
+[137] | MenuItem        | MenuItem           |                           | System                                   | L0, T0, R28, B28
+[138] | Button          | Button             |                           | Minimize                                 | L1742, T-8, R1802, B29
+[139] | Button          | Button             |                           | Maximize                                 | L1802, T-8, R1861, B29
+[140] | Button          | Button             |                           | Close                                    | L1861, T-8, R1921, B29
+[141] | GroupBox        | Group              |                           |                                          | L0, T127, R1920, B1044
+[142] | Custom          | Custom             |                           |                                          | L0, T127, R1920, B167
+[143] | Button          | Button             |                           | Virtual library                          | L0, T132, R131, B160
+[144] | ComboBox        | ComboBox           |                           |                                          | L138, T132, R1660, B162
+[145] | Edit            | Edit               |                           | title:"Atomic Habits: An Easy & Proven W | L141, T135, R1634, B160
+[146] | Button          | Button             |                           |                                          | L1602, T136, R1629, B158
+[147] | Button          | Button             |                           |                                          | L146, T136, R173, B158
+[148] | Button          | Button             |                           |                                          | L178, T136, R205, B158
+[149] | Button          | Button             |                           | Search                                   | L1668, T132, R1755, B162
+[150] | Button          | Button             |                           | Saved searches                           | L1763, T132, R1906, B160
+[151] | GroupBox        | Group              |                           |                                          | L0, T167, R1920, B1044
+[152] | GroupBox        | Group              |                           |                                          | L575, T167, R580, B1044
+[153] | GroupBox        | Group              |                           |                                          | L1340, T167, R1345, B1044
+[154] | GroupBox        | Group              |                           |                                          | L580, T167, R1340, B169
+[155] | GroupBox        | Group              |                           |                                          | L0, T0, R0, B0
+[156] | Custom          | Custom             |                           |                                          | L1345, T167, R1920, B1044
+[157] | Static          | Text               |                           | ﷐Authors ﷐James Clear﷐Ids ﷐9780735211308 | L1345, T657, R1920, B1044
+[158] | GroupBox        | Group              |                           |                                          | L1345, T657, R1902, B1044
+[159] | GroupBox        | Group              |                           |                                          | L1902, T657, R1919, B1044
+[160] | ScrollBar       | ScrollBar          |                           |                                          | L1902, T657, R1919, B1044
+[161] | GroupBox        | Group              |                           |                                          | L1345, T167, R1920, B652
+[162] | Thumb           | Thumb              |                           |                                          | L1345, T652, R1920, B657
+[163] | Custom          | Custom             |                           |                                          | L0, T167, R575, B1044
+[164] | GroupBox        | Group              |                           |                                          | L0, T1016, R575, B1044
+[165] | Button          | Button             |                           | Configure                                | L0, T1016, R108, B1044
+[166] | CheckBox        | CheckBox           |                           | Find                                     | L503, T1016, R574, B1044
+[167] | TreeView        | Tree               |                           |                                          | L0, T167, R575, B1008
+[168] | TreeItem        | TreeItem           |                           | Authors                                  | L15, T167, R575, B204
+[169] | TreeItem        | TreeItem           |                           | Languages                                | L15, T205, R575, B242
+[170] | TreeItem        | TreeItem           |                           | Series                                   | L15, T242, R575, B279
+[171] | TreeItem        | TreeItem           |                           | Formats                                  | L15, T280, R575, B317
+[172] | TreeItem        | TreeItem           |                           | Publisher                                | L15, T317, R575, B354
+[173] | TreeItem        | TreeItem           |                           | Rating                                   | L15, T355, R575, B392
+[174] | TreeItem        | TreeItem           |                           | News                                     | L15, T392, R575, B429
+[175] | TreeItem        | TreeItem           |                           | Tags                                     | L15, T430, R575, B467
+[176] | TreeItem        | TreeItem           |                           | Identifiers                              | L15, T467, R575, B504
+[177] | Pane            | Pane               |                           |                                          | L580, T170, R1340, B1045
+[178] | Pane            | Pane               |                           |                                          | L580, T170, R1340, B1045
+[179] | Custom          | Custom             |                           |                                          | L580, T170, R1340, B1045
+[180] | Table           | Table              |                           |                                          | L580, T170, R1340, B1045
+[181] | Pane            | Pane               |                           |                                          | L0, T0, R0, B0
+[182] | Header          | Header             |                           | On Device                                | L0, T0, R0, B0
+[183] | Header          | Header             |                           | Id                                       | L0, T0, R0, B0
+[184] | Header          | Header             |                           | Title                                    | L595, T171, R718, B196
+[185] | Header          | Header             |                           | Author(s)                                | L718, T171, R826, B196
+[186] | Header          | Header             |                           | Date                                     | L827, T171, R915, B196
+[187] | Header          | Header             |                           | Size (MB)                                | L916, T171, R1014, B196
+[188] | Header          | Header             |                           | Rating                                   | L1015, T171, R1095, B196
+[189] | Header          | Header             |                           | Tags                                     | L1095, T171, R1160, B196
+[190] | Header          | Header             |                           | Series                                   | L1160, T171, R1233, B196
+[191] | Header          | Header             |                           | Publisher                                | L1233, T171, R1333, B196
+[192] | Header          | Header             |                           | Formats                                  | L0, T0, R0, B0
+[193] | Header          | Header             |                           | Path                                     | L0, T0, R0, B0
+[194] | Header          | Header             |                           | Published                                | L1333, T171, R1435, B196
+[195] | Header          | Header             |                           | Modified                                 | L0, T0, R0, B0
+[196] | Header          | Header             |                           | Languages                                | L0, T0, R0, B0
+[197] | Header          | Header             |                           | Pages                                    | L0, T0, R0, B0
+[198] | Header          | Header             |                           | 1                                        | L581, T196, R594, B233
+[199] | DataItem        | DataItem           |                           | Atomic Habits: An Easy & Proven Way to B | L595, T196, R718, B233
+[200] | DataItem        | DataItem           |                           | James Clear                              | L718, T196, R826, B233
+[201] | DataItem        | DataItem           |                           | 2026-10-03T21:56:49.943                  | L827, T196, R915, B233
+[202] | DataItem        | DataItem           |                           | 2.9                                      | L916, T196, R1014, B233
+[203] | DataItem        | DataItem           |                           | 8                                        | L1015, T196, R1095, B233
+[204] | DataItem        | DataItem           |                           | Audiobook, Business, Nonfiction, Persona | L1095, T196, R1160, B233
+[205] | DataItem        | DataItem           |                           |                                          | L1160, T196, R1233, B233
+[206] | DataItem        | DataItem           |                           | Penguin Publishing Group                 | L1233, T196, R1333, B233
+[207] | DataItem        | DataItem           |                           | 2018-10-16T00:00:00.000                  | L1333, T196, R1435, B233
+[208] | Toolbar         | ToolBar            |                           |                                          | L0, T28, R1920, B126
+[209] | Button          | Button             |                           | Add books                                | L2, T31, R107, B124
+[210] | Button          | Button             |                           | Edit metadata                            | L108, T31, R233, B124
+[211] | GroupBox        | Group              |                           |                                          | L235, T31, R242, B124
+[212] | Button          | Button             |                           | Convert books                            | L243, T31, R371, B124
+[213] | Button          | Button             |                           | View                                     | L373, T31, R458, B124
+[214] | GroupBox        | Group              |                           |                                          | L460, T31, R467, B124
+[215] | Button          | Button             |                           | Get books                                | L468, T31, R568, B124
+[216] | Button          | Button             |                           |                                          | L570, T31, R640, B124
+[217] | Button          | Button             |                           | Fetch news                               | L641, T31, R747, B124
+[218] | Button          | Button             |                           | Help                                     | L748, T31, R818, B124
+[219] | GroupBox        | Group              |                           |                                          | L820, T31, R827, B124
+[220] | Button          | Button             |                           | Preferences                              | L828, T31, R938, B124
+[221] | Button          | Button             |                           | Remove books                             | L940, T31, R1070, B124
+[222] | Button          | Button             |                           | Calibre Library                          | L1071, T31, R1198, B124
+[223] | Button          | Button             |                           | Save to disk                             | L1200, T31, R1312, B124
+[224] | Button          | Button             |                           | Connect/share                            | L1313, T31, R1426, B124
+[225] | Button          | Button             |                           | Edit book                                | L1428, T31, R1509, B124
+[226] | StatusBar       | StatusBar          |                           |                                          | L0, T1045, R1920, B1080
+[227] | Thumb           | Thumb              |                           |                                          | L1898, T1058, R1919, B1079
+[228] | Static          | Text               |                           | calibre 9.15 created by Kovid Goyal    [ | L2, T1048, R423, B1076
+[229] | Button          | Button             |                           | Layout                                   | L1738, T1048, R1825, B1076
+[230] | GroupBox        | Group              |                           |                                          | L1833, T1048, R1889, B1076
+[231] | Static          | Text               |                           | Jobs: 0                                  | L1835, T1050, R1888, B1076
+======================================================================================================================================================
+END OF DUMP
+======================================================================================================================================================
